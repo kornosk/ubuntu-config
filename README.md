@@ -1,4 +1,6 @@
 # Configuration scripts for Ubuntu 16.04 #
+- [Graphic Driver (ASUS 1080)](https://github.com/kornosk/ubuntu-config/blob/master/README.md#graphic-driver-asus-1080)
+- [Wifi Driver](https://github.com/kornosk/ubuntu-config/blob/master/README.md#wifi-driver)
 
 ## Graphic Driver (ASUS 1080) ##
 1. Remove GPU from motherboard
