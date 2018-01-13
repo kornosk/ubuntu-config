@@ -23,7 +23,7 @@ sudo apt-get install nvidia-387
 8. Plug GPU into motherboard and move HDMI to plug into GPU
 9. Turn on PC, now it should work perfectly. You can check by
 ```bash
-lsmod |grep nvidia => this will show something, not empty
+lsmod |grep nvidia #this will show something, not empty
 ```
 
 ## Wifi Driver ##
